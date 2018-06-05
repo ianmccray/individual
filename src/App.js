@@ -80,9 +80,9 @@ class App extends Component {
    
     this.setState({
       contracts: addedContracts,
-      curName: "",
-      curCompany: "",
-      curDetails: ""
+      outputName: "",
+      outputCompany: "",
+      outputDetails: ""
     });
   
   };
